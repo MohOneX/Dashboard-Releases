@@ -16,7 +16,8 @@ Built for Instagram, Facebook, WhatsApp, and TikTok sellers who need clear numbe
 
 | Version | Platform | Installer |
 |--------:|----------|-----------|
-| **1.1.0** | Windows (x64) | [daftar-1.1.0-setup.exe](https://github.com/MohOneX/Dashboard-Releases/releases/download/v1.1.0/daftar-1.1.0-setup.exe) |
+| **1.2.0** | Windows (x64) | [daftar-1.2.0-setup.exe](https://github.com/MohOneX/Dashboard-Releases/releases/download/v1.2.0/daftar-1.2.0-setup.exe) |
+| 1.1.0 | Windows (x64) | [daftar-1.1.0-setup.exe](https://github.com/MohOneX/Dashboard-Releases/releases/download/v1.1.0/daftar-1.1.0-setup.exe) |
 
 > Prefer the latest build? Open **[Releases](https://github.com/MohOneX/Dashboard-Releases/releases/latest)**.
 
@@ -63,14 +64,14 @@ After install, the app can check this repository for updates automatically.
 ## System requirements
 
 - **Windows 10 / 11** (64-bit)
-- About **200 MB** free disk space after install
+- About **500 MB** free disk space for download and install
 - No internet required for core use (internet only for WhatsApp links and optional updates)
 
 ---
 
 ## Install
 
-1. Download `daftar-1.1.0-setup.exe` from the [latest release](https://github.com/MohOneX/Dashboard-Releases/releases/latest)
+1. Download `daftar-1.2.0-setup.exe` from the [latest release](https://github.com/MohOneX/Dashboard-Releases/releases/latest)
 2. Run the installer and follow the prompts
 3. Launch **دفتر** from the Start menu or desktop shortcut
 
